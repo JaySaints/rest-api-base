@@ -9,7 +9,8 @@ ___TOOLS USED___
 - Insomnia | The API Design Platform and REST Client;
  
 ___DEPENDENCIES USED___
-- npm i nodemon -D {start-watch}
+- npm i nodemon -D  >> {start-watch}
+- npm i mongoose
 
 
 
