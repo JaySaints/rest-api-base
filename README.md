@@ -3,7 +3,20 @@
 - Learning from video: FreeCodeCamp.org <https://www.youtube.com/watch?v=o3ka5fYysBM&t=1636s>.
 
 ___TOOLS USED___
- - VS Code;
- - Insomnia | The API Design Platform and REST Client;
+- Node.JS
+- Node Package Manager-(npm)
+- VS Code;
+- Insomnia | The API Design Platform and REST Client;
  
- 
+___DEPENDENCIES USED___
+- npm i nodemon -D {start-watch}
+
+
+
+___GLOSSARY & DESCRIPTIONS___
+- REST-(representational state transfer)
+- JSON-(JavaScript Object Notation)
+
+
+
+    
